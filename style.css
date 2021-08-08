@@ -1,0 +1,98 @@
+p{
+    color: dimgray;
+    font-size: bold;
+}
+h5{
+    color: dimgray;   
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.heading-name{
+    font-family: 'Oswald', sans-serif;
+    color: crimson;
+    font-size: 50px;
+}
+h3{
+    font-size: 40px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding-top: 5%;
+    margin-left: 5%;
+}
+.work-width{
+    width: 30%;
+    float: left;
+    margin-left: 2%;
+}
+.header-section{
+    background-image: url(img/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+   
+}
+.middle-section{
+    background-image: url(img/biography-bg.png);
+}
+.half-width img{
+    width: 50%;
+    
+}
+.work-width img{
+    width: 50%;
+}
+.hire-button{
+    text-decoration: none;
+    background-color: crimson;
+    border-radius: 5px;
+    padding: 10px 30px;
+    color: white;
+    font-weight: bold;
+}
+section{
+    height: 500px;
+}
+.work{
+    text-align: center;
+}
+.work-section{
+    background-image: url(img/latest-work-bg.png);
+    background-position: 100%;
+}
+.namee{
+    text-align: center;
+}
+.object{
+    color: black;
+    text-align: center;
+}
+.footer-width{
+    background-image: linear-gradient(45deg, crimson , pink) ;
+    border: 2px;
+    border-radius: 5px;
+    height: 40%;
+    width: 50%;
+    margin-left: 420px;
+}
+h6{
+    padding-top: 3%;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+.email{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+.footer-section{
+    background-image: url(img/footer-bg.png);
+    background-position: 100%;
+}
+
+footer p{
+    text-align: center;
+    font-size: 10px;
+}
